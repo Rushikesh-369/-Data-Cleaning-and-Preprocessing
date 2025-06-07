@@ -37,5 +37,10 @@ This repository contains a data cleaning pipeline for Netflix movie and TV show 
 - NumPy (numerical operations)
 - Matplotlib/Seaborn (visual verification)
 
+# 📜 License  
+**Dataset**: [CC0 1.0 Universal (Public Domain)](https://creativecommons.org/publicdomain/zero/1.0/)  
+✅ No copyright restrictions  
+✅ Free to use, modify, and distribute  
+✅ No attribution required (though appreciated)  
 
 
